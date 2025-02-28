@@ -1,0 +1,13 @@
+################
+# STM32CubeIDE #
+################
+
+Debug/
+Release/
+*.launch
+
+#########
+# MacOS #
+#########
+
+.DS_Store
